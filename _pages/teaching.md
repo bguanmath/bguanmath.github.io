@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Fall 2026
-* **\[MTH026\]** [Calculus 1](_teaching/2026-fall-mth026)
+* **\[MTH026\]** [Calculus 1](/2026-fall-mth026)
   * **Office hours time:** To Be Determined
   * **Office hours location:** Mathematics Building MB337B
 
