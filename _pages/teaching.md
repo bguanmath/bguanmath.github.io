@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Fall 2026
-* **\[MTH026\]** [Calculus 1](/2026-fall-mth026)
+* **\[MTH026\]** [Calculus 1](_teaching/2026-fall-mth026)
   * **Office hours time:** To Be Determined
   * **Office hours location:** Mathematics Building MB337B
 
@@ -21,12 +21,12 @@ author_profile: true
   * **Office hours location:** Mathematics Building MB337B
 
 ## Spring 2025
-* **\[MTH008\]** Multivariable Calculus (Science and Engineering)
+* **\[MTH008\]** [Multivariable Calculus (Science and Engineering)](_teaching/2025-spring-mth008)
   * **Office hours time:** Monday 5pm-7pm, Thursday 6pm-8pm
   * **Office hours location:** Mathematics Building MB337B
 
 ## Fall 2024
-* **\[MTH013\]** Calculus (Science and Engineering)
+* **\[MTH013\]** [Calculus (Science and Engineering)](_teaching/2024-fall-mth013)
   * **Office hours time:** Monday 6pm-9pm, Wednesday 7pm-8pm
   * **Office hours location:** Mathematics Building MB337B
 

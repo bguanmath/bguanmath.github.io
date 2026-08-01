@@ -6,6 +6,7 @@ permalink: /teaching/2026-spring-mth008
 venue: "Xi'an Jiaotong-Liverpool University"
 date: 2026-03-02~2026-05-31
 location: "Suzhou, China"
+share: false
 ---
 
 <table style="border-collapse: collapse; width: 70%; margin-left: auto; margin-right: auto;" border="1">

@@ -15,4 +15,4 @@ My curriculum vitae is available [here](/files/CV_BGuan.pdf).
 
 For more info
 ------
-This personal website is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com). I'm still learning how to use this template. You can also access my homepage through [this link](https://sites.google.com/view/binguan/home).
+This personal website is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com). I'm still learning how to use this template. You can also access my homepage through [Google Sites](https://sites.google.com/view/binguan/home).

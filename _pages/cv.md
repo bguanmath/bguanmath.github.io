@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Here](../files/CV_BGuan.pdf) is a PDF version of my CV.
+
 Work experience
 ======
 * August 2024 --- Now: Teaching Fellow
@@ -25,15 +27,6 @@ Education
 * M.S. in Mathematics, Shandong University, 2015
   * Supervisor: Professor Jing-Song Huang
 * B.S. in Mathematics, Shandong University, 2012
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -53,6 +46,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* 2026, Deputy Module Leader for MTH008
+* 2025, Department Research Officer
+* 2025, Internal Moderator for MTH019
