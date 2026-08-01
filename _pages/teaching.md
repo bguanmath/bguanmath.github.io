@@ -6,42 +6,38 @@ author_profile: true
 ---
 
 ## Fall 2026
-* **\[MTH026\]** [Calculus 1](_teaching/2026-fall-mth026)
+* **\[MTH026\]** [Calculus 1](2026-fall-mth026)
   * **Office hours time:** To Be Determined
   * **Office hours location:** Mathematics Building MB337B
 
 ## Spring 2026
-* **\[MTH008\]** [Multivariable Calculus (Science and Engineering)](_teaching/2026-spring-mth008)
+* **\[MTH008\]** [Multivariable Calculus (Science and Engineering)](2026-spring-mth008)
   * **Office hours time:** Tuesday 5pm-7pm, Friday 7pm-9pm
   * **Office hours location:** Mathematics Building MB337B
 
 ## Fall 2025
-* **\[MTH013\]** [Calculus (Science and Engineering)](_teaching/2025-fall-mth013)
+* **\[MTH013\]** [Calculus (Science and Engineering)](2025-fall-mth013)
   * **Office hours time:** Monday 5:30pm-7:30pm, Thursday 5pm-7pm
   * **Office hours location:** Mathematics Building MB337B
 
 ## Spring 2025
-* **\[MTH008\]** [Multivariable Calculus (Science and Engineering)](_teaching/2025-spring-mth008)
+* **\[MTH008\]** [Multivariable Calculus (Science and Engineering)](2025-spring-mth008)
   * **Office hours time:** Monday 5pm-7pm, Thursday 6pm-8pm
   * **Office hours location:** Mathematics Building MB337B
 
 ## Fall 2024
-* **\[MTH013\]** [Calculus (Science and Engineering)](_teaching/2024-fall-mth013)
+* **\[MTH013\]** [Calculus (Science and Engineering)](2024-fall-mth013)
   * **Office hours time:** Monday 6pm-9pm, Wednesday 7pm-8pm
   * **Office hours location:** Mathematics Building MB337B
 
-## Past Courses
-
-<details>
-<summary><b>Click to expand past teaching experience</b></summary>
-
-<br>
+<details markdown="1">
+<summary><h2>Past Courses</h2></summary>
 
 **I worked as a Postdoctoral Fellow at Shandong University from 2020 to 2024.**
-* **Spring 2023:** [Advanced Abstract Algebra (Graduate Level)](_teaching_SDU/高等近世代数_2022-2023-2.md)
-* **Fall 2022:** [Basics in Algebra and Geometry](_teaching_SDU/代数和几何基础_2022-2023-1.md)
-* **Spring 2022:** [Abstract Algebra](_teaching_SDU/抽象代数_2021-2022-2.md)
-* **Fall 2021:** [Basics in Algebra and Geometry](_teaching_SDU/代数和几何基础_2021-2022-1.md)
+* **Spring 2023:** [Advanced Abstract Algebra (Graduate Level)](2023-spring-sd00930180)
+* **Fall 2022:** [Basics in Algebra and Geometry](2022-fall-sd00922130)
+* **Spring 2022:** [Abstract Algebra](2022-spring-sd00930180)
+* **Fall 2021:** [Basics in Algebra and Geometry](2021-fall-sd00922130)
 
 **I worked as a Math Tutoring Fellow at the Guttman Community College from 2019 to 2020.**
 
