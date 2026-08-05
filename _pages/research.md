@@ -25,7 +25,7 @@ author_profile: true
 
 ## Seminars
 
-* From Summer 2016 to Spring 2019, I co-organized the Automorphic Forms and L-functions Student Seminar at the Graduate Center, CUNY.
+* From Summer 2016 to Spring 2019, I co-organized the [Automorphic Forms and L-functions Student Seminar](https://sites.google.com/view/binguan/research/automorphic-forms-and-l-functions-student-seminar?authuser=0) at the Graduate Center, CUNY.
 * From Fall 2009 to Spring 2014, I co-organized the Pure Math Student Seminar of Shandong University.
 
 ## Talks & Notes
