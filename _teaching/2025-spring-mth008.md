@@ -46,5 +46,5 @@ share: false
 
 <br>
 
-* [Lecture Slides with notes](#)
+* [Lecture Slides with notes](https://github.com/bguanmath/XJTLU_MTH008_Slides)
 * [Beyond the Classroom](#)
