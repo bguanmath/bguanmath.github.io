@@ -82,7 +82,7 @@ Remember: **Study Smarter, Not Harder!**
 [https://www.bilibili.com/video/BV1N9YtzdE95](https://www.bilibili.com/video/BV1N9YtzdE95)
 
 **Three Related Formulas in Defining the Number $e$**
-[Written with ChatGPT]({% link _posts/2026-09-04-the-number-e-as-a-limit.md %}) 
+[Written with ChatGPT]({% post_url 2026-09-04-the-number-e-as-a-limit %})
 
 【Zhihu】**Telescoping Sum 裂项求和 & Fundamental Theorem of Calculus**
 [https://www.zhihu.com/question/53677038/answer/262214740](https://www.zhihu.com/question/53677038/answer/262214740)
