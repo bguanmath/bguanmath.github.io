@@ -7,7 +7,7 @@ author_profile: true
 
 ## Fall 2026
 * **\[MTH026\]** [Calculus 1]({% link _teaching/2026-fall-mth026.md %})
-  * **Office hours time:** To Be Determined
+  * **Office hours time:** Tuesday 12noon-2pm, Thursday 6:30pm-8:30pm
   * **Office hours location:** Mathematics Building MB337B
 
 ## Spring 2026
