@@ -31,17 +31,19 @@ author_profile: true
   * **Office hours location:** Mathematics Building MB337B
 
 <details markdown="1">
-<summary><h2>Past Courses</h2></summary>
+<summary style="cursor: pointer;">
+  <h2 style="display: inline; margin: 0 0 0 0.25em;">Past Courses</h2>
+</summary>
 
-**I worked as a Postdoctoral Fellow at Shandong University from 2020 to 2024.**
+I worked as a **Postdoctoral Fellow** at **Shandong University** from 2020 to 2024.
 * **Spring 2023:** [Advanced Abstract Algebra (Graduate Level)]({% link _teaching/SDU/高等近世代数_2022-2023-2.md %})
 * **Fall 2022:** [Basics in Algebra and Geometry]({% link _teaching/SDU/代数和几何基础_2022-2023-1.md %})
 * **Spring 2022:** [Abstract Algebra]({% link _teaching/SDU/抽象代数_2021-2022-2.md %})
 * **Fall 2021:** [Basics in Algebra and Geometry]({% link _teaching/SDU/代数和几何基础_2021-2022-1.md %})
 
-**I worked as a Math Tutoring Fellow at the Guttman Community College from 2019 to 2020.**
+I worked as a **Math Tutoring Fellow** at the **Guttman Community College** from 2019 to 2020.
 
-**I worked as a Graduate Teaching Fellow and taught at the City College of New York (CCNY) from 2016 to 2019.**
+I worked as a **Graduate Teaching Fellow** and taught at the **City College of New York (CCNY)** from 2016 to 2019.
 * **Spring 2019:** \[Math 392\] [Linear Algebra and Vector Analysis for Engineers](https://math.sci.ccny.cuny.edu/course/math-39200/)
 * **Fall 2018:** \[Math 205\] [Elements of Calculus](https://math.sci.ccny.cuny.edu/course/math-20500/)
 * **Spring 2018:** \[Math 202\] [Calculus II](https://math.sci.ccny.cuny.edu/course/math-20200/)
@@ -49,7 +51,7 @@ author_profile: true
 * **Spring 2017:** \[Math 202\] [Calculus II](https://math.sci.ccny.cuny.edu/course/math-20200/)
 * **Fall 2016:** \[Math 201\] [Calculus I](https://math.sci.ccny.cuny.edu/course/math-20100/)
 
-**I worked as a teaching assistant at Shandong University from 2012 to 2015.**
+I worked as a **teaching assistant** at **Shandong University** from 2012 to 2015.
 * **Fall 2014:** Basics in Algebra and Geometry (Instructor: Hualin Huang)
 * **Spring 2014:** Advanced Abstract Algebra (Graduate Level, Instructor: Hualin Huang)
 * **Fall 2013:** Differential Geometry (Instructor: Chaoping Dong)

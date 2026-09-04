@@ -218,7 +218,7 @@ $$
 > \lim_{x\to\infty}\left(1+\frac 1x\right)^x=e.
 > $$
 
-Let $n=\llbracket x\rrbracket$, so that $n\leq x<n+1$.
+Let $n=\lfloor x\rfloor$, so that $n\leq x<n+1$.
 
 Because all the bases below are greater than $1$, we have
 
