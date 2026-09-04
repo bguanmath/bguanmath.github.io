@@ -2,7 +2,7 @@
 layout: single
 title: "Beyond the Classroom — MTH026"
 permalink: /teaching/mth026-beyond/
-author_profile: false
+author_profile: true
 last_modified_at: 2026-09-04
 ---
 
