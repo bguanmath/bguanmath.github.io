@@ -189,7 +189,9 @@ Its real-valued domain is $(-\infty,-1)\cup(0,\infty)$
 (since we require that $1+1/x>0$). 
 The two horizontal ends of the graph both approach $y=e$.
 
-![The graph of y=(1+1/x)^x]({{ "/images/posts/e-limit-x.png" | relative_url }})
+<img class="e-limit-graph"
+     src="{{ '/images/posts/e-limit-x.svg' | relative_url }}"
+     alt="The graph of y=(1+1/x)^x">
 
 *Figure 1. The graph of $y=(1+1/x)^x$, with the horizontal asymptote $y=e$.*
 
@@ -199,7 +201,9 @@ $$
 g(h)=(1+h)^{1/h}.
 $$
 
-![The graph of y=(1+h)^(1/h)]({{ "/images/posts/e-limit-h.png" | relative_url }})
+<img class="e-limit-graph"
+     src="{{ '/images/posts/e-limit-h.svg' | relative_url }}"
+     alt="The graph of y=(1+h)^(1/h)">
 
 *Figure 2. The graph of $y=(1+h)^{1/h}$, with the removable discontinuity at $h=0$ and the limiting value $e$.*
 

@@ -50,6 +50,13 @@
 
 .page__content {
 
+  .e-limit-graph {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0;
+  }
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
