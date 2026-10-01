@@ -3,7 +3,7 @@ layout: single
 title: "Beyond the Classroom — MTH026"
 permalink: /teaching/mth026-beyond/
 author_profile: true
-last_modified_at: 2026-09-04
+last_modified_at: 2026-09-28
 ---
 
 This space is for extra resources to help you learn more. 
@@ -79,6 +79,12 @@ Remember: **Study Smarter, Not Harder!**
 
 **Three Related Formulas in Defining the Number $e$**<br>
 [Written with ChatGPT]({% post_url 2026-09-04-the-number-e-as-a-limit %})
+
+**Infinitesimals**<br>
+[Written with ChatGPT]({% post_url 2026-09-28-infinitesimals %})
+
+**Landau Symbols: Big O and Little o**<br>
+[Written with ChatGPT]({% post_url 2026-09-28-landau-symbols %})
 
 【Zhihu】**Telescoping Sum 裂项求和 & Fundamental Theorem of Calculus**<br>
 [https://www.zhihu.com/question/53677038/answer/262214740](https://www.zhihu.com/question/53677038/answer/262214740)
