@@ -264,11 +264,9 @@ $$
 **Mistake \#1: replacing a convergent base by its limit.**
 
 $$
-\begin{aligned}
 \lim_{x\to\infty}\frac{\left(1+\frac1x\right)^{x^2}}{e^x}
-&=\lim_{x\to\infty}\frac{\left(\left(1+\frac1x\right)^x\right)^x}{e^x}\\[4pt]
-&\overset{\textcolor{red}{\text{incorrect}}}{=}\lim_{x\to\infty}\frac{e^x}{e^x}=1.
-\end{aligned}
+=\lim_{x\to\infty}\frac{\left(\left(1+\frac1x\right)^x\right)^x}{e^x}
+\overset{\textcolor{red}{\text{incorrect}}}{=}\lim_{x\to\infty}\frac{e^x}{e^x}=1.
 $$
 
 Although $(1+1/x)^x\to e$, the exponent $x\to\infty$ can amplify the error in the base, so replacing the base by its limit is not justified.

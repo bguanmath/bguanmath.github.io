@@ -3,7 +3,7 @@ layout: single
 title: "Landau Symbols: Big O and Little o"
 permalink: /posts/2026-09-28-landau-symbols/
 author_profile: true
-last_modified_at: 2026-10-01
+last_modified_at: 2026-10-02
 ---
 
 An approximation becomes more useful when we describe its error. Landau symbols, especially big $O$ and little $o$, let us compare an error with a chosen scale. We will introduce these symbols, then use the approximation of $\sqrt{10}$ to develop the idea of a Taylor polynomial.
@@ -24,13 +24,13 @@ Throughout this section, $x\to a$ is a specified limiting process, and $g(x)$ is
 > if there is a constant $C>0$ such that
 >
 > $$
-> |f(x)|\le C|g(x)|
+> \lvert f(x)\rvert\le C\lvert g(x)\rvert
 > $$
 >
 > for all $x$ sufficiently close to $a$ in the domain, with $x\ne a$.
 
 
-For a finite $a$, "sufficiently close" means $0<|x-a|<\delta$ for some $\delta>0$. For $x\to+\infty$, it means $x>M$ for some $M$.
+For a finite $a$, "sufficiently close" means $0<\lvert x-a\rvert<\delta$ for some $\delta>0$. For $x\to+\infty$, it means $x>M$ for some $M$.
 
 Equivalently, $f/g$ remains bounded in absolute value. The constant $C$ is independent of $x$ in the specified region.
 
@@ -44,7 +44,7 @@ x^3=O(x^2)
 $$
 
 
-For the second statement, $|x|<1$ gives $|x^3|\le|x^2|$. Big $O$ is an upper bound on relative size; it does not assert that the two functions have exactly the same order.
+For the second statement, $\lvert x\rvert<1$ gives $\lvert x^3\rvert\le\lvert x^2\rvert$. Big $O$ is an upper bound on relative size; it does not assert that the two functions have exactly the same order.
 
 ### Little $o$: a ratio tending to zero
 
@@ -61,7 +61,7 @@ For the second statement, $|x|<1$ gives $|x^3|\le|x^2|$. Big $O$ is an upper bou
 > \lim_{x\to a}\frac{f(x)}{g(x)}=0.
 > $$
 >
-> Equivalently, for every $\varepsilon>0$, we have $|f(x)|\le\varepsilon|g(x)|$ sufficiently close to the limit. Thus $f$ is negligible relative to $g$.
+> Equivalently, for every $\varepsilon>0$, we have $\lvert f(x)\rvert\le\varepsilon\lvert g(x)\rvert$ sufficiently close to the limit. Thus $f$ is negligible relative to $g$.
 
 For example,
 
@@ -96,7 +96,7 @@ but $3x^2$ is not $o(x^2)$, because its ratio to $x^2$ is $3$.
 > \sin x=O(1)\qquad\text{as}\quad x\to\infty,
 > $$
 >
-> because $|\sin x|\le1$ for every real $x$. Here $O(1)$ means bounded; the function $\sin x$ itself has no limit at infinity.
+> because $\lvert \sin x\rvert\le1$ for every real $x$. Here $O(1)$ means bounded; the function $\sin x$ itself has no limit at infinity.
 
 <span style="color: #c62828;">Always specify the limiting process</span>: $x^2=o(x)$ as $x\to0$, whereas $x=o(x^2)$ as $x\to+\infty$.
 
@@ -115,11 +115,11 @@ For infinitesimals, this is precisely the equivalence introduced in the companio
 Asymptotic equivalence implies both $f=O(g)$ and $g=O(f)$. Indeed, if $f/g\to1$, then sufficiently close to the limit point,
 
 $$
-\frac12\le\left|\frac{f(x)}{g(x)}\right|\le\frac32.
+\frac12\le\left\lvert\frac{f(x)}{g(x)}\right\rvert\le\frac32.
 $$
 
 
-Thus $|f|\le(3/2)|g|$ and $|g|\le2|f|$. The converse fails even when both big-$O$ relations hold: as $x\to\infty$, the functions $f(x)=2x$ and $g(x)=x$ satisfy both bounds, but $f/g=2$, so $f\not\sim g$.
+Thus $\lvert f\rvert\le(3/2)\lvert g\rvert$ and $\lvert g\rvert\le2\lvert f\rvert$. The converse fails even when both big-$O$ relations hold: as $x\to\infty$, the functions $f(x)=2x$ and $g(x)=x$ satisfy both bounds, but $f/g=2$, so $f\not\sim g$.
 
 ### Quotient limits and big $O$
 
@@ -136,19 +136,19 @@ Little $o$ implies big $O$, but the converse is false: for example, $3x^2=O(x^2)
 **Proof.** Let $f(x)/g(x)\to L\in\mathbb R$. By the definition of a limit, sufficiently close to the limit point,
 
 $$
-\left|\frac{f(x)}{g(x)}-L\right|<1.
+\left\lvert\frac{f(x)}{g(x)}-L\right\rvert<1.
 $$
 
 The triangle inequality gives
 
 $$
-\left|\frac{f(x)}{g(x)}\right|
-\le\left|\frac{f(x)}{g(x)}-L\right|+|L|
-<1+|L|.
+\left\lvert\frac{f(x)}{g(x)}\right\rvert
+\le\left\lvert\frac{f(x)}{g(x)}-L\right\rvert+\lvert L\rvert
+<1+\lvert L\rvert.
 $$
 
 
-Taking $C=1+{|L|}$ proves the big-$O$ bound. $\square$
+Taking $C=1+{\lvert L\rvert}$ proves the big-$O$ bound. $\square$
 
 For a counterexample to the converse, take $f(x)=\sin x$ and $g(x)=1$ as $x\to\infty$. We have $f=O(g)$, but the quotient takes the values $1$ along $\pi/2+2\pi n$ and $-1$ along $3\pi/2+2\pi n$, so it has no limit.
 
@@ -250,7 +250,7 @@ E_0(h)=\frac h6+o(h).
 $$
 
 
-Thus the absolute error is asymptotic to $|h|/6$. The constant approximation has an $O(h)$ error, but not an $o(h)$ error: it misses the first-order change of the function. At $h=1$, it gives $\sqrt{10}\approx3$, with an absolute error of about $0.16228$.
+Thus the absolute error is asymptotic to $\lvert h\rvert/6$. The constant approximation has an $O(h)$ error, but not an $o(h)$ error: it misses the first-order change of the function. At $h=1$, it gives $\sqrt{10}\approx3$, with an absolute error of about $0.16228$.
 
 To improve the approximation, we should let it change with $h$. The simplest choice is a linear polynomial, whose slope can be chosen to remove this first-order error.
 
