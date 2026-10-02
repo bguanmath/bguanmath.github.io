@@ -169,7 +169,7 @@ $$
 =\frac92.
 $$
 
->### Example 2. Simplify before using L'Hôpital's rule
+>### Example 2. Simplify before using l'Hôpital's rule
 >
 >Evaluate
 >
@@ -199,7 +199,7 @@ $$
 2\lim_{x\to0}\frac{x-\sin x}{x^3}.
 $$
 
-Now apply L'Hôpital's rule to this simpler $0/0$ quotient. The derivative of the denominator is nonzero for $x\ne0$, and the derivative quotient has the limit
+Now apply l'Hôpital's rule to this simpler $0/0$ quotient. The derivative of the denominator is nonzero for $x\ne0$, and the derivative quotient has the limit
 
 $$
 \lim_{x\to0}\frac{1-\cos x}{3x^2}
@@ -267,7 +267,7 @@ $$
 \begin{aligned}
 \lim_{x\to\infty}\frac{\left(1+\frac1x\right)^{x^2}}{e^x}
 &=\lim_{x\to\infty}\frac{\left(\left(1+\frac1x\right)^x\right)^x}{e^x}\\[4pt]
-&\overset{\text{\textcolor{red}{incorrect}}}{=}\lim_{x\to\infty}\frac{e^x}{e^x}=1.
+&\overset{\textcolor{red}{\text{incorrect}}}{=}\lim_{x\to\infty}\frac{e^x}{e^x}=1.
 \end{aligned}
 $$
 
@@ -278,7 +278,7 @@ Although $(1+1/x)^x\to e$, the exponent $x\to\infty$ can amplify the error in th
 $$
 \lim_{x\to\infty}\frac{\left(1+\frac1x\right)^{x^2}}{e^x}
 =\lim_{x\to\infty}\frac{e^{x^2\ln(1+\frac1x)}}{e^x}
-\overset{\text{\textcolor{red}{incorrect}}}{=}\lim_{x\to\infty}\frac{e^{x^2\cdot\frac1x}}{e^x}=1.
+\overset{\textcolor{red}{\text{incorrect}}}{=}\lim_{x\to\infty}\frac{e^{x^2\cdot\frac1x}}{e^x}=1.
 $$
 
 Although $\ln(1+1/x)\sim1/x$, replacing it in this exponent would require the exponent error $x^2[\ln(1+1/x)-1/x]$ to tend to zero, which it does not. 
@@ -298,7 +298,7 @@ $$
 \qquad h=\frac1x.
 $$
 
-The last quotient has the form $0/0$. Applying L'Hôpital's rule once gives
+The last quotient has the form $0/0$. Applying l'Hôpital's rule once gives
 
 $$
 \lim_{h\to0^+}\frac{\ln(1+h)-h}{h^2}
