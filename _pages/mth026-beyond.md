@@ -3,7 +3,7 @@ layout: single
 title: "Beyond the Classroom — MTH026"
 permalink: /teaching/mth026-beyond/
 author_profile: true
-last_modified_at: 2026-09-28
+last_modified_at: 2026-10-25
 ---
 
 This space is for extra resources to help you learn more. 
@@ -43,6 +43,11 @@ Remember: **Study Smarter, Not Harder!**
 
 
 ## Useful Tools
+
+【西浦IT服务中心】**XJTLU Printing Guide**<br>
+Part 1. How to submit a print job and obtain your documents?【[English Version](https://mp.weixin.qq.com/s/H-xb9HNDNz32koJymu5TFA)】【[Chinese Version](https://mp.weixin.qq.com/s/ErzDpmTPPH9tpvorXT26Sw)】<br>
+Part 2. How to copy and scan on campus printers?【[English Version](https://mp.weixin.qq.com/s/hKYDZ5V7Fn9R6BvM7PR9pw)】【[Chinese Version](https://mp.weixin.qq.com/s/QeQc3DNhScKcnXFSS-Niwg)】<br>
+Part 3. Print System and FAQs【[English Version](https://mp.weixin.qq.com/s/tz8lLU7j5BNs-FBE0dJrNg)】【[Chinese Version](https://mp.weixin.qq.com/s/qRnzSbyeT8wCG5q4GvLaxw)】<br>
 
 **WolframAlpha**<br>
 [https://www.wolframalpha.com/](https://www.wolframalpha.com/)
